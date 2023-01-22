@@ -10,7 +10,7 @@ pipe = pickle.load(open('model_quikr_car_price_prediction.pkl', 'rb'))
 data_cleaned = pd.read_csv('cleaned_data.csv')
 
 st.title('Quikr Car Price Prediction')
-st.text('It takes 6 inputs: \n 1. Name\n 2. Company\n 3. Year\n 4. Price\n 5. KMS driven\n 6. Fuel Type')
+st.text('It takes 5 inputs: \n 1. Name\n 2. Company\n 3. Year\n 4. KMS driven\n 5. Fuel Type')
 st.text('It uses Machine Learning Algorithm to predict the cost of car.')
 st.header("Please enter the values below:")
 
