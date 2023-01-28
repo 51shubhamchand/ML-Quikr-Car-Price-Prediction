@@ -1,4 +1,5 @@
-# ML-Quikr-Car-Price-Prediction
+![image](https://user-images.githubusercontent.com/36957216/215264770-4d870fa6-99d4-420c-a678-fd648546cab3.png)
+<h1 align="center" style="margin-top: 0px;">ML-Quikr-Car-Price-Prediction</h1>
 
 ## Brief:
 Used Linear Regression Machine Learning algorith to predict the cost price of an used card based on given inputs.
