@@ -21,3 +21,8 @@ https://www.quikr.com/
 ## References:
 * https://github.com/rajtilakls2510/car_price_predictor/blob/master/application.py
 * https://github.com/prathameshThakur/Car-Price-Predictor/blob/master/app.py
+
+## Regards:
+**Shubham Chand**
+- Github: [@51shubhamchand](https://github.com/51shubhamchand)
+- LinkedIn: [@shubham-chand-12100189](https://www.linkedin.com/in/shubham-chand-12100189)
